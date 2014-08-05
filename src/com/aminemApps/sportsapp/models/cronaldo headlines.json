@@ -1,0 +1,432 @@
+{
+	"timestamp": "2014-07-28T21:23:51Z",
+	"resultsOffset": 0,
+	"status": "success",
+	"resultsLimit": 10,
+	"resultsCount": 1,
+	"headlines": [
+		{
+			"headline": "Cristiano Ronaldo returns to training",
+			"keywords": [],
+			"lastModified": "2014-07-28T13:40:56Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963103?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963103/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963103&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1pv8lFy"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963103,
+			"story": "",
+			"title": "Cristiano Ronaldo returns to Real Madrid training in U.S.",
+			"linkText": "Ronaldo returns to Real training",
+			"byline": "espn staff",
+			"description": "Real Madrid",
+			"images": [
+				{
+					"height": 324,
+					"alt": "",
+					"width": 576,
+					"name": "Ronaldo returns to training",
+					"caption": "Cristiano has returned to training for Real Madrid in a limited capacity after featuring in this summer's World Cup.",
+					"url": "http://a.espncdn.com/media/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Spanish Primera Divisi\u00F3n",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 740,
+					"league": {
+						"id": 740,
+						"description": "ESP.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/esp.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/spanish-primera-division/15/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ESP.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:15"
+				}, {
+					"description": "Real Madrid",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 86,
+					"team": {
+						"id": 86,
+						"description": "Real Madrid",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/86"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/real-madrid/86/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=86&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:86"
+				}, {
+					"description": "Cristiano Ronaldo",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 22774,
+					"athlete": {
+						"id": 22774,
+						"description": "Cristiano Ronaldo",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/22774"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/22774/cristiano-ronaldo"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=22774&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}
+			],
+			"published": "2014-07-28T10:12:48Z",
+			"video": [
+				{
+					"id": 1963394,
+					"headline": "Ronaldo returns to training",
+					"description": "Cristiano has returned to training for Real Madrid in a limited capacity after featuring in this summer's World Cup.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:51:54Z",
+					"originalPublishDate": "2014-07-28T13:34:33Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-28T13:34:33Z",
+						"expirationDate": "2014-10-31T16:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 65,
+					"keywords": ["Real Madrid", "Cristiano Ronaldo"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1963394?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1963394?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1963394?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.mp4"
+							}
+						}
+					},
+					"title": "Ronaldo returns to training"
+				}, {
+					"id": 1960844,
+					"headline": "Can Ronaldo share the spotlight again?",
+					"description": "As the La Liga season nears Real Madrid's star, Cristiano Ronaldo, may be daunted by the latest signing, James Rodriguez.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-25T21:53:09Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-25T21:53:09Z",
+						"expirationDate": "2015-01-10T17:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 43,
+					"keywords": ["Cristiano", "Ronaldo", "CR7", "James", "Rodriguez", "Bale", "Real Madrid", "ESPN FC"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1960844?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1960844?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1960844?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.mp4"
+							}
+						}
+					},
+					"title": "Can Ronaldo share the spotlight again?"
+				}, {
+					"id": 1962730,
+					"headline": "Beckham backs Rodriguez as Real deal",
+					"description": "David Beckham visited Real Madrid's training camp in the United States to congratulate them on la decima, and backed James Rodriguez as a great signing.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-27T21:06:58Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-27T21:06:58Z",
+						"expirationDate": "2014-08-10T16:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 94,
+					"keywords": ["ESPN FC", "Real Madrid", "Spanish La Liga", "James Rodriguez", "David Beckham"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1962730?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1962730?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1962730?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.mp4"
+							}
+						}
+					},
+					"title": "Beckham backs Rodriguez as Real deal"
+				}, {
+					"id": 1962473,
+					"headline": "WATCH: Bale scores beauty against Inter",
+					"description": "Real Madrid star Gareth Bale scored a marvellous long-distance goal in their 1-1 draw with Inter in the International Champions Cup in California.",
+					"tracking": {
+						"sportName": "Soccer",
+						"leagueName": "No League",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-27T15:16:32Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-27T15:16:32Z",
+						"expirationDate": "2014-07-30T14:59:31Z"
+					},
+					"geoRestrictions": {
+						"type": "whitelist",
+						"countries": ["NZ", "PW", "IE", "FM", "FJ", "AU", "MH"]
+					},
+					"syndicatable": true,
+					"duration": 36,
+					"keywords": [],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1962473?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/spanish-primera-division/15/video/1962473?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/spanish-primera-division/15/video/1962473?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.mp4"
+							}
+						}
+					},
+					"title": "WATCH: Bale scores beauty against Inter"
+				}, {
+					"id": 1962376,
+					"headline": "Ancelotti predicts big season for Bale",
+					"description": "Real Madrid head coach Carlo Ancelotti is predicting big things for Gareth Bale ahead of the upcoming campaign after the Welsman's wonder goal against Inter Milan in pre-season.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-27T13:51:22Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-27T13:51:22Z",
+						"expirationDate": "2014-08-17T16:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 111,
+					"keywords": ["soccer", "real", "madrid", "la", "liga", "gareth", "bale", "carlo", "ancelotti"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1962376?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1962376?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1962376?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.mp4"
+							}
+						}
+					},
+					"title": "Ancelotti predicts big season for Bale"
+				}
+			]
+		}
+	]
+}

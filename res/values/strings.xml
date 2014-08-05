@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sports App</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_front_page_activity">Sports App | Home</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="but2">but2</string>
+    <string name="but3">but3</string>
+    <string name="premire_leageu_pic">Premire leageu pic</string>
+    <string name="la_liga_pic">la liga pic</string>
+    <string name="bundes_liga_pic">bundes liga pic</string>
+    <string name="image_of_a_league">image of a league</string>
+    <string name="click_to_choose">Click on logo to choose a league </string>
+
+</resources>

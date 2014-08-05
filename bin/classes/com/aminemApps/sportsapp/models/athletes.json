@@ -1,0 +1,1571 @@
+{
+	"sports": [
+		{
+			"name": "soccer",
+			"id": 600,
+			"uid": "s:600",
+			"leagues": [
+				{
+					"name": "Barclays Premier League",
+					"abbreviation": "eng.1",
+					"id": 700,
+					"isTournament": false,
+					"country": {
+						"id": 31,
+						"name": "England",
+						"abbreviation": "ENG"
+					},
+					"uid": "s:600~l:700",
+					"groupId": 23,
+					"shortName": "Premier League",
+					"athletes": [
+						{
+							"id": 160114,
+							"firstName": "Mehdi",
+							"lastName": "Abeid",
+							"fullName": "Mehdi Abeid",
+							"displayName": "Mehdi Abeid",
+							"shortName": "M. Abeid",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/160114"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/160114/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/160114/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/160114/mehdi-abeid?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=160114&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 43936,
+							"firstName": "Vasiriki",
+							"lastName": "Abou Diaby",
+							"fullName": "Vasiriki Abou Diaby",
+							"displayName": "Abou Diaby",
+							"shortName": "V. Abou Diaby",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/43936"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/43936/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/43936/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/43936/abou-diaby?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=43936&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 108350,
+							"firstName": "Charlie",
+							"lastName": "Adam",
+							"fullName": "Charlie Adam",
+							"displayName": "Charlie Adam",
+							"shortName": "C. Adam",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/108350"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/108350/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/108350/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/108350/charlie-adam?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=108350&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 16684,
+							"firstName": "Emmanuel",
+							"lastName": "Adebayor",
+							"fullName": "Emmanuel Adebayor",
+							"displayName": "Emmanuel Adebayor",
+							"shortName": "E. Adebayor",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/16684"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/16684/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/16684/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/16684/emmanuel-adebayor?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=16684&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 152144,
+							"firstName": "Benik",
+							"lastName": "Afobe",
+							"fullName": "Benik Afobe",
+							"displayName": "Benik Afobe",
+							"shortName": "B. Afobe",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/152144"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/152144/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/152144/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/152144/benik-afobe?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=152144&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 70428,
+							"firstName": "Gabriel",
+							"lastName": "Agbonlahor",
+							"fullName": "Gabriel Agbonlahor",
+							"displayName": "Gabriel Agbonlahor",
+							"shortName": "G. Agbonlahor",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/70428"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/70428/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/70428/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/70428/gabriel-agbonlahor?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=70428&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 41844,
+							"firstName": "Daniel",
+							"lastName": "Agger",
+							"fullName": "Daniel Agger",
+							"displayName": "Daniel Agger",
+							"shortName": "D. Agger",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/41844"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/41844/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/41844/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/41844/daniel-agger?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=41844&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 44927,
+							"firstName": "Sergio",
+							"lastName": "Ag\u00FCero",
+							"fullName": "Sergio Ag\u00FCero",
+							"displayName": "Sergio Ag\u00FCero",
+							"shortName": "S. Ag\u00FCero",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/44927"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/44927/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/44927/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/44927/sergio-aguero?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=44927&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 159248,
+							"firstName": "Nathan",
+							"lastName": "Ake",
+							"fullName": "Nathan Ake",
+							"displayName": "Nathan Ake",
+							"shortName": "N. Ake",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/159248"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/159248/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/159248/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/159248/nathan-ake?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=159248&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 181092,
+							"firstName": "Chuba",
+							"lastName": "Akpom",
+							"fullName": "Chuba Akpom",
+							"displayName": "Chuba Akpom",
+							"shortName": "C. Akpom",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/181092"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/181092/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/181092/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/181092/chuba-akpom?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=181092&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 132107,
+							"firstName": "Marc",
+							"lastName": "Albrighton",
+							"fullName": "Marc Albrighton",
+							"displayName": "Marc Albrighton",
+							"shortName": "M. Albrighton",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/132107"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/132107/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/132107/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/132107/marc-albrighton?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=132107&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 140065,
+							"firstName": "Antol\u00EDn",
+							"lastName": "Alcaraz",
+							"fullName": "Antolin Alcaraz",
+							"displayName": "Antol\u00EDn Alcaraz",
+							"shortName": "A. Alcaraz",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/140065"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/140065/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/140065/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/140065/antolin-alcaraz?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=140065&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 93736,
+							"firstName": "Joe",
+							"lastName": "Allen",
+							"fullName": "Joe Allen",
+							"displayName": "Joe Allen",
+							"shortName": "J. Allen",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/93736"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/93736/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/93736/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/93736/joe-allen?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=93736&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 163197,
+							"firstName": "Jak",
+							"lastName": "Alnwick",
+							"fullName": "Jak Alnwick",
+							"displayName": "Jak Alnwick",
+							"shortName": "J. Alnwick",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/163197"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/163197/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/163197/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/163197/jak-alnwick?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=163197&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 75589,
+							"firstName": "Jozy",
+							"lastName": "Altidore",
+							"fullName": "Jozy Altidore",
+							"displayName": "Jozy Altidore",
+							"shortName": "J. Altidore",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/75589"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/75589/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/75589/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/75589/jozy-altidore?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=75589&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 70615,
+							"firstName": "Sone",
+							"lastName": "Aluko",
+							"fullName": "Sone Aluko",
+							"displayName": "Sone Aluko",
+							"shortName": "S. Aluko",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/70615"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/70615/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/70615/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/70615/sone-aluko?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=70615&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 155123,
+							"firstName": "Wellington",
+							"lastName": "Alves da Silva",
+							"fullName": "Wellington Alves da Silva",
+							"displayName": "Wellington",
+							"shortName": "W. Alves da Silva",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/155123"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/155123/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/155123/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/155123/wellington?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=155123&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 144477,
+							"firstName": "Jordi",
+							"lastName": "Amat Mass",
+							"fullName": "Jordi Amat Mass",
+							"displayName": "Jordi Amat",
+							"shortName": "J. Amat Mass",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/144477"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/144477/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/144477/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/144477/jordi-amat?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=144477&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 158142,
+							"firstName": "Sammy",
+							"lastName": "Ameobi",
+							"fullName": "Sammy Ameobi",
+							"displayName": "Sammy Ameobi",
+							"shortName": "S. Ameobi",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/158142"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/158142/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/158142/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/158142/sammy-ameobi?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=158142&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 120863,
+							"firstName": "Ben",
+							"lastName": "Amos",
+							"fullName": "Ben Amos",
+							"displayName": "Ben Amos",
+							"shortName": "B. Amos",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/120863"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/120863/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/120863/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/120863/ben-amos?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=120863&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 177156,
+							"firstName": "Thomas",
+							"lastName": "Anderson",
+							"fullName": "Thomas Anderson",
+							"displayName": "Thomas Anderson",
+							"shortName": "T. Anderson",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/177156"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/177156/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/177156/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/177156/thomas-anderson?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=177156&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 74599,
+							"firstName": "Victor",
+							"lastName": "Anichebe",
+							"fullName": "Victor Anichebe",
+							"displayName": "Victor Anichebe",
+							"shortName": "V. Anichebe",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/74599"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/74599/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/74599/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/74599/victor-anichebe?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=74599&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 77226,
+							"firstName": "Vurnon",
+							"lastName": "Anita",
+							"fullName": "Vurnon Anita",
+							"displayName": "Vurnon Anita",
+							"shortName": "V. Anita",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/77226"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/77226/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/77226/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/77226/vurnon-anita?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=77226&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 165265,
+							"firstName": "Jordan",
+							"lastName": "Archer",
+							"fullName": "Jordan Archer",
+							"displayName": "Jordan Archer",
+							"shortName": "J. Archer",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/165265"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/165265/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/165265/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/165265/jordan-archer?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=165265&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 84036,
+							"firstName": "Scott",
+							"lastName": "Arfield",
+							"fullName": "Scott Arfield",
+							"displayName": "Scott Arfield",
+							"shortName": "S. Arfield",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/84036"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/84036/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/84036/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/84036/scott-arfield?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=84036&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 194116,
+							"firstName": "Adam",
+							"lastName": "Armstrong",
+							"fullName": "Adam Armstrong",
+							"displayName": "Adam Armstrong",
+							"shortName": "A. Armstrong",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/194116"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/194116/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/194116/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/194116/adam-armstrong?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=194116&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 98193,
+							"firstName": "Marko",
+							"lastName": "Arnautovic",
+							"fullName": "Marko Arnautovic",
+							"displayName": "Marko Arnautovic",
+							"shortName": "M. Arnautovic",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/98193"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/98193/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/98193/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/98193/marko-arnautovic?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=98193&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 9840,
+							"firstName": "Mikel",
+							"lastName": "Arteta",
+							"fullName": "Mikel Arteta",
+							"displayName": "Mikel Arteta",
+							"shortName": "M. Arteta",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/9840"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/9840/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/9840/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/9840/mikel-arteta?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=9840&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 140799,
+							"firstName": "Oussama",
+							"lastName": "Assaidi",
+							"fullName": "Oussama Assaidi",
+							"displayName": "Oussama Assaidi",
+							"shortName": "O. Assaidi",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/140799"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/140799/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/140799/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/140799/oussama-assaidi?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=140799&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 41320,
+							"firstName": "Beno\u00EEt",
+							"lastName": "Assou-Ekotto",
+							"fullName": "Beno\u00EEt Assou-Ekotto",
+							"displayName": "Beno\u00EEt Assou-Ekotto",
+							"shortName": "B. Assou-Ekotto",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/41320"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/41320/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/41320/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/41320/benoit-assou-ekotto?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=41320&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 158109,
+							"firstName": "Christian",
+							"lastName": "Atsu",
+							"fullName": "Christian Atsu",
+							"displayName": "Christian Atsu",
+							"shortName": "C. Atsu",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/158109"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/158109/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/158109/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/158109/christian-atsu?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=158109&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 141704,
+							"firstName": "Charlie",
+							"lastName": "Austin",
+							"fullName": "Charlie Austin",
+							"displayName": "Charlie Austin",
+							"shortName": "C. Austin",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/141704"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/141704/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/141704/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/141704/charlie-austin?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=141704&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 97770,
+							"firstName": "C\u00E9sar",
+							"lastName": "Azpilicueta",
+							"fullName": "C\u00E9sar Tanco Azpilicueta",
+							"displayName": "C\u00E9sar Azpilicueta",
+							"shortName": "C. Azpilicueta",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/97770"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/97770/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/97770/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/97770/cesar-azpilicueta?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=97770&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 171680,
+							"firstName": "El-Hadj",
+							"lastName": "Ba",
+							"fullName": "El-Hadj Ba",
+							"displayName": "El-Hadj Ba",
+							"shortName": "E. Ba",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/171680"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/171680/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/171680/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/171680/el-hadj-ba?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=171680&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 138664,
+							"firstName": "Leandro",
+							"lastName": "Bacuna",
+							"fullName": "Leandro Bacuna",
+							"displayName": "Leandro Bacuna",
+							"shortName": "L. Bacuna",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/138664"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/138664/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/138664/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/138664/leandro-bacuna?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=138664&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 19952,
+							"firstName": "Leighton",
+							"lastName": "Baines",
+							"fullName": "Leighton Baines",
+							"displayName": "Leighton Baines",
+							"shortName": "L. Baines",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/19952"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/19952/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/19952/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/19952/leighton-baines?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=19952&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 7860,
+							"firstName": "Chris",
+							"lastName": "Baird",
+							"fullName": "Chris Baird",
+							"displayName": "Chris Baird",
+							"shortName": "C. Baird",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/7860"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/7860/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/7860/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/7860/chris-baird?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=7860&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 84202,
+							"firstName": "Zoumana",
+							"lastName": "Bakayogo",
+							"fullName": "Zoumana Bakayogo",
+							"displayName": "Zoumana Bakayogo",
+							"shortName": "Z. Bakayogo",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/84202"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/84202/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/84202/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/84202/zoumana-bakayogo?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=84202&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 40192,
+							"firstName": "Lewis",
+							"lastName": "Baker",
+							"fullName": "Lewis Baker",
+							"displayName": "Lewis Baker",
+							"shortName": "L. Baker",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/40192"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/40192/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/40192/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/40192/lewis-baker?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=40192&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 121171,
+							"firstName": "Nathan",
+							"lastName": "Baker",
+							"fullName": "Nathan Baker",
+							"displayName": "Nathan Baker",
+							"shortName": "N. Baker",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/121171"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/121171/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/121171/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/121171/nathan-baker?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=121171&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 167114,
+							"firstName": "Patrick",
+							"lastName": "Bamford",
+							"fullName": "Patrick Bamford",
+							"displayName": "Patrick Bamford",
+							"shortName": "P. Bamford",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/167114"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/167114/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/167114/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/167114/patrick-bamford?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=167114&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 130079,
+							"firstName": "Barry",
+							"lastName": "Bannan",
+							"fullName": "Barry Bannan",
+							"displayName": "Barry Bannan",
+							"shortName": "B. Bannan",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/130079"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/130079/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/130079/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/130079/barry-bannan?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=130079&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 40235,
+							"firstName": "Phillip",
+							"lastName": "Bardsley",
+							"fullName": "Phillip Bardsley",
+							"displayName": "Phillip Bardsley",
+							"shortName": "P. Bardsley",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/40235"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/40235/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/40235/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/40235/phillip-bardsley?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=40235&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 152469,
+							"firstName": "Ross",
+							"lastName": "Barkley",
+							"fullName": "Ross Barkley",
+							"displayName": "Ross Barkley",
+							"shortName": "R. Barkley",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/152469"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/152469/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/152469/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/152469/ross-barkley?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=152469&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 182344,
+							"firstName": "Jack",
+							"lastName": "Barmby",
+							"fullName": "Jack Barmby",
+							"displayName": "Jack Barmby",
+							"shortName": "J. Barmby",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/182344"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/182344/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/182344/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/182344/jack-barmby?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=182344&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 105405,
+							"firstName": "Ashley",
+							"lastName": "Barnes",
+							"fullName": "Ashley Barnes",
+							"displayName": "Ashley Barnes",
+							"shortName": "A. Barnes",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/105405"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/105405/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/105405/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/105405/ashley-barnes?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=105405&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 8185,
+							"firstName": "Gareth",
+							"lastName": "Barry",
+							"fullName": "Gareth Barry",
+							"displayName": "Gareth Barry",
+							"shortName": "G. Barry",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/8185"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/8185/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/8185/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/8185/gareth-barry?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=8185&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 123512,
+							"firstName": "Kyle",
+							"lastName": "Bartley",
+							"fullName": "Kyle Bartley",
+							"displayName": "Kyle Bartley",
+							"shortName": "K. Bartley",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/123512"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/123512/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/123512/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/123512/kyle-bartley?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=123512&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 27050,
+							"firstName": "Joey",
+							"lastName": "Barton",
+							"fullName": "Joey Barton",
+							"displayName": "Joey Barton",
+							"shortName": "J. Barton",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/27050"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/27050/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/27050/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/27050/joey-barton?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=27050&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}, {
+							"id": 194821,
+							"firstName": "Mitchell",
+							"lastName": "Beeney",
+							"fullName": "Mitchell Beeney",
+							"displayName": "Mitchell Beeney",
+							"shortName": "M. Beeney",
+							"links": {
+								"api": {
+									"athletes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/194821"
+									},
+									"news": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/194821/news"
+									},
+									"notes": {
+										"href": "http://api.espn.com/v1/sports/soccer/eng.1/athletes/194821/news/notes"
+									}
+								},
+								"web": {
+									"athletes": {
+										"href": "http://www.espnfc.com/player/194821/mitchell-beeney?ex_cid=espnapi_public"
+									}
+								},
+								"mobile": {
+									"athletes": {
+										"href": "http://m.espn.go.com/soccer/profile?id=194821&ex_cid=espnapi_public"
+									}
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"resultsOffset": 0,
+	"resultsLimit": 50,
+	"resultsCount": 629,
+	"timestamp": "2014-07-20T15:19:12Z",
+	"status": "success"
+}
+
+
+
+
+///
+/*JsonArray sports = new JsonParser().parse(content)
+					.getAsJsonObject().get("sports").getAsJsonArray();
+			JsonElement league = sports.get(0);
+			JsonArray atlets = league.getAsJsonObject().get("leagues")
+					.getAsJsonArray().get(0).getAsJsonObject().get("athletes")
+					.getAsJsonArray();
+
+			for (int offset = 1; offset < 650; offset = offset + 50) {
+				try {
+					final JsonArray athletes = atlets;
+					for (final JsonElement athlete : athletes) {
+
+						Player pl = new Player();
+						pl.setFirstname(athlete.getAsJsonObject().get(
+								"firstName").toString());
+						pl.setLastname(athlete.getAsJsonObject()
+								.get("lastName").toString());
+						pl.setFullname(athlete.getAsJsonObject()
+								.get("fullName").toString());
+						// pl.setLeugue(atlObj.getString("leagues"));
+						// pl.setSport(atlObj.getString("sports"));
+						playerList.add(pl);
+
+						System.out.println(athlete.getAsJsonObject().get(
+								"fullName"));
+						return playerList;
+					}
+					Thread.sleep(100);
+				} catch (Exception e) {
+					e.printStackTrace();
+					return null;
+				}
+			}*/

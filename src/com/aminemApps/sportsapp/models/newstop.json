@@ -1,0 +1,2090 @@
+{
+	"timestamp": "2014-07-28T21:04:17Z",
+	"resultsOffset": 0,
+	"status": "success",
+	"resultsLimit": 10,
+	"resultsCount": 22,
+	
+	"headlines": [
+		{
+			"headline": "Green fit for Bayern's U.S. tour",
+			"keywords": ["Julian Green", "Bayern Munich", "United States"],
+			"lastModified": "2014-07-28T18:43:31Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963768?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963768/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963768&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1AqfT54"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963768,
+			"story": "",
+			"title": "Green fit for Bayern's U.S. tour",
+			"linkText": "Julian Green fit for Bayern's U.S. tour",
+			"byline": "Doug McIntyre",
+			"description": "Bayern Munich news",
+			"images": [
+				{
+					"height": 729,
+					"alt": "Julian Green",
+					"width": 1296,
+					"name": "Green_Julian 140707 [1296x729]",
+					"caption": "Klinsmann is uniquely suited to tapping the world for talent, including the likes of Julian Green.",
+					"type": "inline",
+					"credit": "Francisco Leong/Getty Images",
+					"url": "http://a.espncdn.com/photo/2014/0707/soc_g_green_cr_1296x729.jpg"
+				}, {
+					"height": 324,
+					"alt": "",
+					"width": 576,
+					"name": "Play of the day: Julian Green",
+					"caption": "United States forward Julian Green struck gold with his first ever touch in a World Cup game, a stunning volley to get the U.S. back in the game against Belgium.",
+					"url": "http://a.espncdn.com/media/motion/ESPNi/2014/0701/int_140701_Play_of_the_day_Julian_Green/int_140701_Play_of_the_day_Julian_Green.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Bayern Munich",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 132,
+					"team": {
+						"id": 132,
+						"description": "Bayern Munich",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/132"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/bayern-munich/132/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=132&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:132"
+				}, {
+					"description": "Julian Green",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 191018,
+					"athlete": {
+						"id": 191018,
+						"description": "Julian Green",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/191018"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/191018/julian-green"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=191018&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}, {
+					"description": "United States",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 660,
+					"team": {
+						"id": 660,
+						"description": "United States",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/660"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/team/united-states/660/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=660&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:660"
+				}
+			],
+			"published": "2014-07-28T16:45:04Z",
+			"video": [
+				{
+					"id": 1928147,
+					"headline": "Play of the day: Julian Green",
+					"description": "United States forward Julian Green struck gold with his first ever touch in a World Cup game, a stunning volley to get the U.S. back in the game against Belgium.",
+					"tracking": {
+						"sportName": "Soccer",
+						"leagueName": "World Cup",
+						"coverageType": "Highlights"
+					},
+					"lastModified": "2014-07-28T18:43:43Z",
+					"originalPublishDate": "2014-07-02T00:38:40Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-02T00:38:40Z",
+						"expirationDate": "2015-01-10T17:00:00Z"
+					},
+					"geoRestrictions": {
+						"type": "whitelist",
+						"countries": ["US"]
+					},
+					"syndicatable": true,
+					"duration": 82,
+					"keywords": ["Highlights", "World Cup", "United States"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0701/int_140701_Play_of_the_day_Julian_Green/int_140701_Play_of_the_day_Julian_Green_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0701/int_140701_Play_of_the_day_Julian_Green/int_140701_Play_of_the_day_Julian_Green.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0701/int_140701_Play_of_the_day_Julian_Green/int_140701_Play_of_the_day_Julian_Green.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0701/int_140701_Play_of_the_day_Julian_Green/int_140701_Play_of_the_day_Julian_Green.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1928147?region=GB"
+							},
+							"video": {
+								"href": "http://api.espn.com/v1/video/clips/1928147?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/video/latest-videos/600/video/1928147?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/video/latest-videos/600/video/1928147?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://secure.video-origin.espn.com/espnvideo/ESPNi/2014/0701/int_140701_Play_of_the_day_Julian_Green/int_140701_Play_of_the_day_Julian_Green.mp4"
+							}
+						}
+					},
+					"title": "Play of the day: Julian Green"
+				}
+			]
+		}, {
+			"headline": "Man United monitor Di Maria situation",
+			"keywords": [],
+			"lastModified": "2014-07-28T16:44:10Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963249?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963249/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963249&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1l6SNXf"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963249,
+			"story": "",
+			"title": "Manchester United monitor Angel Di Maria situation",
+			"linkText": "United monitor Di Maria situation",
+			"byline": "Miguel Delaney",
+			"description": "Transfer news",
+			"images": [
+				{
+					"height": 324,
+					"alt": "",
+					"width": 576,
+					"name": "Garcia: Strootman will cost United 100 million",
+					"caption": "AS Roma coach Rudi Garcia has revealed Manchester United will need to break the bank if they are to sign Kevin Strootman.",
+					"url": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_INET_UNITED_FOR_STROOTMAN/int_140727_INET_UNITED_FOR_STROOTMAN.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Soccer Transfers",
+					"type": "topic",
+					"sportId": 600,
+					"topicId": 3
+				}, {
+					"description": "Manchester United",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 360,
+					"team": {
+						"id": 360,
+						"description": "Manchester United",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/360"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/manchester-united/360/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=360&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:360"
+				}, {
+					"description": "Real Madrid",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 86,
+					"team": {
+						"id": 86,
+						"description": "Real Madrid",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/86"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/real-madrid/86/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=86&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:86"
+				}, {
+					"description": "\u00C1ngel Di Mar\u00EDa",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 108223,
+					"athlete": {
+						"id": 108223,
+						"description": "\u00C1ngel Di Mar\u00EDa",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/108223"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/108223/angel-di-maria"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=108223&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}, {
+					"description": "Barclays Premier League",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 700,
+					"league": {
+						"id": 700,
+						"description": "ENG.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/eng.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/barclays-premier-league/23/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ENG.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:23"
+				}, {
+					"description": "Spanish Primera Divisi\u00F3n",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 740,
+					"league": {
+						"id": 740,
+						"description": "ESP.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/esp.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/spanish-primera-division/15/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ESP.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:15"
+				}
+			],
+			"published": "2014-07-28T12:55:53Z",
+			"video": [
+				{
+					"id": 1962436,
+					"headline": "Garcia: Strootman will cost United 100 million",
+					"description": "AS Roma coach Rudi Garcia has revealed Manchester United will need to break the bank if they are to sign Kevin Strootman.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T16:44:14Z",
+					"originalPublishDate": "2014-07-27T14:14:03Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-27T14:14:03Z",
+						"expirationDate": "2014-08-10T16:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 74,
+					"keywords": ["Soccer", "AS Roma", "Manchester United", "English Premier League", "Kevin Strootman", "Italian Serie A"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_UNITED_FOR_STROOTMAN/int_140727_INET_UNITED_FOR_STROOTMAN_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_UNITED_FOR_STROOTMAN/int_140727_INET_UNITED_FOR_STROOTMAN.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0727/int_140727_INET_UNITED_FOR_STROOTMAN/int_140727_INET_UNITED_FOR_STROOTMAN.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_INET_UNITED_FOR_STROOTMAN/int_140727_INET_UNITED_FOR_STROOTMAN.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1962436?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/video/latest-videos/600/video/1962436?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/video/latest-videos/600/video/1962436?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0727/int_140727_INET_UNITED_FOR_STROOTMAN/int_140727_INET_UNITED_FOR_STROOTMAN.mp4"
+							}
+						}
+					},
+					"title": "Garcia: Strootman will cost United 100 million"
+				}
+			]
+		}, {
+			"headline": "Redknapp 'delighted' to have Remy ",
+			"keywords": [],
+			"lastModified": "2014-07-28T18:52:31Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963247?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963247/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963247&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1Aphzf9"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963247,
+			"story": "",
+			"title": "Harry Redknapp welcomes Loic Remy back at QPR after Liverpool deal collapse",
+			"linkText": "Harry 'can't believe' Remy failed medical",
+			"byline": "espn staff",
+			"description": "Transfer news",
+			"images": [],
+			"categories": [
+				{
+					"description": "Soccer Transfers",
+					"type": "topic",
+					"sportId": 600,
+					"topicId": 3
+				}, {
+					"description": "Barclays Premier League",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 700,
+					"league": {
+						"id": 700,
+						"description": "ENG.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/eng.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/barclays-premier-league/23/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ENG.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:23"
+				}, {
+					"description": "Liverpool",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 364,
+					"team": {
+						"id": 364,
+						"description": "Liverpool",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/364"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/liverpool/364/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=364&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:364"
+				}, {
+					"description": "Queens Park Rangers",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 334,
+					"team": {
+						"id": 334,
+						"description": "Queens Park Rangers",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/334"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/queens-park-rangers/334/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=334&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:334"
+				}, {
+					"description": "Lo\u00EFc R\u00E9my",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 84886,
+					"athlete": {
+						"id": 84886,
+						"description": "Lo\u00EFc R\u00E9my",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/84886"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/84886/loic-remy"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=84886&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}
+			],
+			"published": "2014-07-28T12:40:28Z",
+			"video": []
+		}, {
+			"headline": "Rodgers: Liverpool won't panic buy",
+			"keywords": [],
+			"lastModified": "2014-07-28T09:25:33Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963011?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963011/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963011&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1l6ns78"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963011,
+			"story": "",
+			"title": "Brendan Rodgers says Liverpool won't panic buy",
+			"linkText": "Rodgers: Reds won't panic buy",
+			"description": "Liverpool news",
+			"images": [
+				{
+					"height": 729,
+					"alt": " Adam Lallana signs for Liverpool",
+					"width": 1296,
+					"name": " Adam Lallana signs for Liverpool [1296x729]",
+					"type": "inline",
+					"credit": "Liverpool FC via Getty Images",
+					"url": "http://a.espncdn.com/photo/2014/0701/fc_lallana_ml_1296x729.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Soccer Transfers",
+					"type": "topic",
+					"sportId": 600,
+					"topicId": 3
+				}, {
+					"description": "Barclays Premier League",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 700,
+					"league": {
+						"id": 700,
+						"description": "ENG.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/eng.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/barclays-premier-league/23/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ENG.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:23"
+				}, {
+					"description": "Liverpool",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 364,
+					"team": {
+						"id": 364,
+						"description": "Liverpool",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/364"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/liverpool/364/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=364&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:364"
+				}
+			],
+			"published": "2014-07-28T07:22:38Z",
+			"video": []
+		}, {
+			"headline": "Arsenal complete Chambers signing",
+			"keywords": [],
+			"lastModified": "2014-07-28T16:54:34Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963512?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963512/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963512&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1l77dGS"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963512,
+			"story": "",
+			"title": "Calum Chambers signs for Arsenal from Southampton",
+			"linkText": "Arsenal complete Chambers deal",
+			"byline": "ESPN staff",
+			"description": "Transfer news",
+			"images": [
+				{
+					"height": 729,
+					"alt": "Calum Chambers",
+					"width": 1296,
+					"name": "Chambers_Calum 140311 [1296x729]",
+					"type": "inline",
+					"credit": "Clive Rose/Getty Images",
+					"url": "http://a.espncdn.com/photo/2014/0311/soc_g_chamts_1296x729.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Soccer Transfers",
+					"type": "topic",
+					"sportId": 600,
+					"topicId": 3
+				}, {
+					"description": "Barclays Premier League",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 700,
+					"league": {
+						"id": 700,
+						"description": "ENG.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/eng.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/barclays-premier-league/23/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ENG.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:23"
+				}, {
+					"description": "Callum Chambers",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 176266,
+					"athlete": {
+						"id": 176266,
+						"description": "Callum Chambers",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/176266"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/176266/calum-chambers"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=176266&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}, {
+					"description": "Southampton",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 376,
+					"team": {
+						"id": 376,
+						"description": "Southampton",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/376"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/southampton/376/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=376&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:376"
+				}, {
+					"description": "Arsenal",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 359,
+					"team": {
+						"id": 359,
+						"description": "Arsenal",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/359"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/arsenal/359/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=359&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:359"
+				}
+			],
+			"published": "2014-07-28T14:29:48Z",
+			"video": []
+		}, {
+			"headline": "Cristiano Ronaldo returns to training",
+			"keywords": [],
+			"lastModified": "2014-07-28T13:40:56Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963103?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963103/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963103&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1pv8lFy"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963103,
+			"story": "",
+			"title": "Cristiano Ronaldo returns to Real Madrid training in U.S.",
+			"linkText": "Ronaldo returns to Real training",
+			"byline": "espn staff",
+			"description": "Real Madrid",
+			"images": [
+				{
+					"height": 324,
+					"alt": "",
+					"width": 576,
+					"name": "Ronaldo returns to training",
+					"caption": "Cristiano has returned to training for Real Madrid in a limited capacity after featuring in this summer's World Cup.",
+					"url": "http://a.espncdn.com/media/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Spanish Primera Divisi\u00F3n",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 740,
+					"league": {
+						"id": 740,
+						"description": "ESP.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/esp.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/spanish-primera-division/15/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ESP.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:15"
+				}, {
+					"description": "Real Madrid",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 86,
+					"team": {
+						"id": 86,
+						"description": "Real Madrid",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/86"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/real-madrid/86/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=86&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:86"
+				}, {
+					"description": "Cristiano Ronaldo",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 22774,
+					"athlete": {
+						"id": 22774,
+						"description": "Cristiano Ronaldo",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/22774"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/22774/cristiano-ronaldo"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=22774&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}
+			],
+			"published": "2014-07-28T10:12:48Z",
+			"video": [
+				{
+					"id": 1963394,
+					"headline": "Ronaldo returns to training",
+					"description": "Cristiano has returned to training for Real Madrid in a limited capacity after featuring in this summer's World Cup.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:51:54Z",
+					"originalPublishDate": "2014-07-28T13:34:33Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-28T13:34:33Z",
+						"expirationDate": "2014-10-31T16:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 65,
+					"keywords": ["Real Madrid", "Cristiano Ronaldo"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1963394?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1963394?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1963394?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0728/int_140728_fc_ronaldo_segment/int_140728_fc_ronaldo_segment.mp4"
+							}
+						}
+					},
+					"title": "Ronaldo returns to training"
+				}, {
+					"id": 1960844,
+					"headline": "Can Ronaldo share the spotlight again?",
+					"description": "As the La Liga season nears Real Madrid's star, Cristiano Ronaldo, may be daunted by the latest signing, James Rodriguez.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-25T21:53:09Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-25T21:53:09Z",
+						"expirationDate": "2015-01-10T17:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 43,
+					"keywords": ["Cristiano", "Ronaldo", "CR7", "James", "Rodriguez", "Bale", "Real Madrid", "ESPN FC"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1960844?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1960844?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1960844?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0725/int_140725_INET_FC_ronaldo/int_140725_INET_FC_ronaldo.mp4"
+							}
+						}
+					},
+					"title": "Can Ronaldo share the spotlight again?"
+				}, {
+					"id": 1962730,
+					"headline": "Beckham backs Rodriguez as Real deal",
+					"description": "David Beckham visited Real Madrid's training camp in the United States to congratulate them on la decima, and backed James Rodriguez as a great signing.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-27T21:06:58Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-27T21:06:58Z",
+						"expirationDate": "2014-08-10T16:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 94,
+					"keywords": ["ESPN FC", "Real Madrid", "Spanish La Liga", "James Rodriguez", "David Beckham"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1962730?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1962730?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1962730?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0727/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal/int_140727_INET_Beckham_backs_Rodriguez_as_Real_deal.mp4"
+							}
+						}
+					},
+					"title": "Beckham backs Rodriguez as Real deal"
+				}, {
+					"id": 1962473,
+					"headline": "WATCH: Bale scores beauty against Inter",
+					"description": "Real Madrid star Gareth Bale scored a marvellous long-distance goal in their 1-1 draw with Inter in the International Champions Cup in California.",
+					"tracking": {
+						"sportName": "Soccer",
+						"leagueName": "No League",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-27T15:16:32Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-27T15:16:32Z",
+						"expirationDate": "2014-07-30T14:59:31Z"
+					},
+					"geoRestrictions": {
+						"type": "whitelist",
+						"countries": ["NZ", "PW", "IE", "FM", "FJ", "AU", "MH"]
+					},
+					"syndicatable": true,
+					"duration": 36,
+					"keywords": [],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1962473?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/spanish-primera-division/15/video/1962473?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/spanish-primera-division/15/video/1962473?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0727/int_140727_INET_bale_goal_vs_INter/int_140727_INET_bale_goal_vs_INter.mp4"
+							}
+						}
+					},
+					"title": "WATCH: Bale scores beauty against Inter"
+				}, {
+					"id": 1962376,
+					"headline": "Ancelotti predicts big season for Bale",
+					"description": "Real Madrid head coach Carlo Ancelotti is predicting big things for Gareth Bale ahead of the upcoming campaign after the Welsman's wonder goal against Inter Milan in pre-season.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T13:41:01Z",
+					"originalPublishDate": "2014-07-27T13:51:22Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-27T13:51:22Z",
+						"expirationDate": "2014-08-17T16:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 111,
+					"keywords": ["soccer", "real", "madrid", "la", "liga", "gareth", "bale", "carlo", "ancelotti"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1962376?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/real-madrid/86/video/1962376?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/real-madrid/86/video/1962376?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0727/int_140727_ancelotti_bale/int_140727_ancelotti_bale.mp4"
+							}
+						}
+					},
+					"title": "Ancelotti predicts big season for Bale"
+				}
+			]
+		}, {
+			"headline": "Mourinho: Chelsea 'need' Drogba",
+			"keywords": [],
+			"lastModified": "2014-07-28T13:36:05Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963368?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963368/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963368&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1oAxkLb"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963368,
+			"story": "",
+			"title": "Jose Mourinho says Chelsea will 'need' Didier Drogba",
+			"linkText": "Mourinho: Chelsea 'need' Drogba",
+			"byline": "espn staff",
+			"description": "Chelsea news",
+			"images": [],
+			"categories": [
+				{
+					"description": "Barclays Premier League",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 700,
+					"league": {
+						"id": 700,
+						"description": "ENG.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/eng.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/barclays-premier-league/23/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ENG.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:23"
+				}, {
+					"description": "Chelsea",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 363,
+					"team": {
+						"id": 363,
+						"description": "Chelsea",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/363"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/chelsea/363/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=363&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:363"
+				}, {
+					"description": "Didier Drogba",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 18727,
+					"athlete": {
+						"id": 18727,
+						"description": "Didier Drogba",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/18727"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/18727/didier-drogba"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=18727&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}
+			],
+			"published": "2014-07-28T13:25:09Z",
+			"video": []
+		}, {
+			"headline": "Atleti agree Antoine Griezmann deal",
+			"keywords": [],
+			"lastModified": "2014-07-28T13:31:08Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963071?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963071/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963071&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1l6wvoD"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963071,
+			"story": "",
+			"title": "Atletico Madrid agree Antoine Griezmann deal with Real Sociedad",
+			"linkText": "Atletico Madrid agree deal for Griezmann",
+			"byline": "ESPN staff",
+			"images": [
+				{
+					"height": 729,
+					"alt": "Antoine Griezmann",
+					"width": 1296,
+					"name": "Antoine Griezmann France training 20140701 [1296x729]",
+					"type": "inline",
+					"credit": "FRANCK FIFE/AFP/Getty Images",
+					"url": "http://a.espncdn.com/photo/2014/0728/fc_griezmannfrance_rh_1296x729.jpg"
+				}, {
+					"height": 324,
+					"alt": "",
+					"width": 576,
+					"name": "Atletico Madrid agree deal for Griezmann",
+					"caption": "Atletico Madrid have agreed to sign Real Sociedad midfielder Antoine Griezmann.",
+					"url": "http://a.espncdn.com/media/motion/ESPNi/2014/0728/int_140728_griezmann_segment/int_140728_griezmann_segment.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Soccer Transfers",
+					"type": "topic",
+					"sportId": 600,
+					"topicId": 3
+				}, {
+					"description": "Atletico Madrid",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 1068,
+					"team": {
+						"id": 1068,
+						"description": "Atletico Madrid",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/1068"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/atletico-madrid/1068/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=1068&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:1068"
+				}, {
+					"description": "Real Sociedad",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 89,
+					"team": {
+						"id": 89,
+						"description": "Real Sociedad",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/89"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/real-sociedad/89/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=89&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:89"
+				}, {
+					"description": "Antoine Griezmann",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 140416,
+					"athlete": {
+						"id": 140416,
+						"description": "Antoine Griezmann",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/140416"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/140416/antoine-griezmann"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=140416&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}
+			],
+			"published": "2014-07-28T09:12:12Z",
+			"video": [
+				{
+					"id": 1963369,
+					"headline": "Atletico Madrid agree deal for Griezmann",
+					"description": "Atletico Madrid have agreed to sign Real Sociedad midfielder Antoine Griezmann.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T18:06:47Z",
+					"originalPublishDate": "2014-07-28T13:25:33Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-28T13:25:33Z",
+						"expirationDate": "2014-11-30T17:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 63,
+					"keywords": ["soccer", "transfers", "atletico", "madrid", "la", "liga", "antoine", "griezmann"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0728/int_140728_griezmann_segment/int_140728_griezmann_segment_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0728/int_140728_griezmann_segment/int_140728_griezmann_segment.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0728/int_140728_griezmann_segment/int_140728_griezmann_segment.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0728/int_140728_griezmann_segment/int_140728_griezmann_segment.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1963369?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/atletico-madrid/1068/video/1963369?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/atletico-madrid/1068/video/1963369?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0728/int_140728_griezmann_segment/int_140728_griezmann_segment.mp4"
+							}
+						}
+					},
+					"title": "Atletico Madrid agree deal for Griezmann"
+				}
+			]
+		}, {
+			"headline": "Schweinsteiger sorry for BVB video",
+			"keywords": [],
+			"lastModified": "2014-07-28T12:55:47Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963010?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963010/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963010&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1AouoGk"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963010,
+			"story": "",
+			"title": "Bastian Schweinsteiger of Bayern Munich apologises for Borussia Dortmund video",
+			"linkText": "Schweinsteiger sorry for BVB vid",
+			"byline": "Ian Holyman",
+			"images": [
+				{
+					"height": 324,
+					"alt": "",
+					"width": 576,
+					"name": "Guardiola: Bayern and Dortmund on a similar level",
+					"caption": "Bayern Munich head coach Pep Guardiola contends that rivals Borussia Dortmund are just as strong as Bayern.",
+					"url": "http://a.espncdn.com/media/motion/ESPNi/2014/0724/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "German Bundesliga",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 720,
+					"league": {
+						"id": 720,
+						"description": "GER.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/ger.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/german-bundesliga/10/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=GER.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:10"
+				}, {
+					"description": "Bayern Munich",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 132,
+					"team": {
+						"id": 132,
+						"description": "Bayern Munich",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/132"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/bayern-munich/132/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=132&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:132"
+				}, {
+					"description": "Borussia Dortmund",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 124,
+					"team": {
+						"id": 124,
+						"description": "Borussia Dortmund",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/124"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/borussia-dortmund/124/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=124&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:124"
+				}
+			],
+			"published": "2014-07-28T07:21:58Z",
+			"video": [
+				{
+					"id": 1959321,
+					"headline": "Guardiola: Bayern and Dortmund on a similar level",
+					"description": "Bayern Munich head coach Pep Guardiola contends that rivals Borussia Dortmund are just as strong as Bayern.",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T15:13:20Z",
+					"originalPublishDate": "2014-07-24T19:00:34Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-24T19:00:34Z",
+						"expirationDate": "2014-11-23T17:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 137,
+					"keywords": [],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0724/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0724/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0724/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0724/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1959321?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/bayern-munich/132/video/1959321?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/bayern-munich/132/video/1959321?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0724/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level/int_140724_Guardiola_Bayern_and_Dortmund_on_a_similar_level.mp4"
+							}
+						}
+					},
+					"title": "Guardiola: Bayern and Dortmund on a similar level"
+				}
+			]
+		}, {
+			"headline": "Kaka: I was not a Real Madrid failure",
+			"keywords": [],
+			"lastModified": "2014-07-28T17:07:58Z",
+			"premium": false,
+			"mobileStory": "",
+			"links": {
+				"api": {
+					"news": {
+						"href": "http://api.espn.com/v1/sports/news/1963486?region=GB"
+					}
+				},
+				"web": {
+					"href": "http://www.espnfc.com/league-name/story/1963486/headline?ex_cid=espnapi_public"
+				},
+				"mobile": {
+					"href": "http://m.espn.go.com/soccer/story?storyId=1963486&ex_cid=espnapi_public",
+					"short": {
+						"href": "http://es.pn/1oAJNi6"
+					}
+				}
+			},
+			"type": "Story",
+			"related": [],
+			"id": 1963486,
+			"story": "",
+			"title": "Kaka: I was not a Real Madrid failure",
+			"linkText": "Kaka: I was not a Real Madrid failure",
+			"byline": "ESPN staff",
+			"description": "Real Madrid news",
+			"images": [
+				{
+					"height": 324,
+					"alt": "",
+					"width": 576,
+					"name": "Kaka glad of \"emotional\" Sao Paulo return",
+					"caption": "Brazil's Kaka was feeling 'emotional' as returned to Sao Paulo after being loaned by new MLS club Orlando City",
+					"url": "http://a.espncdn.com/media/motion/ESPNi/2014/0707/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return.jpg"
+				}
+			],
+			"categories": [
+				{
+					"description": "Spanish Primera Divisi\u00F3n",
+					"type": "league",
+					"sportId": 600,
+					"leagueId": 740,
+					"league": {
+						"id": 740,
+						"description": "ESP.1",
+						"links": {
+							"api": {
+								"leagues": {
+									"href": "http://api.espn.com/v1/sports/soccer/esp.1"
+								}
+							},
+							"web": {
+								"leagues": {
+									"href": "http://www.espnfc.com/spanish-primera-division/15/index"
+								}
+							},
+							"mobile": {
+								"leagues": {
+									"href": "http://m.espn.go.com/soccer/section?id=ESP.1&lang=ENex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~l:15"
+				}, {
+					"description": "Real Madrid",
+					"type": "team",
+					"sportId": 600,
+					"teamId": 86,
+					"team": {
+						"id": 86,
+						"description": "Real Madrid",
+						"links": {
+							"api": {
+								"teams": {
+									"href": "http://api.espn.com/v1/sports/soccer/teams/86"
+								}
+							},
+							"web": {
+								"teams": {
+									"href": "http://www.espnfc.com/club/real-madrid/86/squad"
+								}
+							},
+							"mobile": {
+								"teams": {
+									"href": "http://m.espn.go.com/soccer/clubhouse?teamId=86&ex_cid=espnapi_public"
+								}
+							}
+						}
+					},
+					"uid": "s:600~t:86"
+				}, {
+					"description": "Ricardo Izecson dos Santos L",
+					"type": "athlete",
+					"sportId": 600,
+					"athleteId": 21364,
+					"athlete": {
+						"id": 21364,
+						"description": "Ricardo Izecson dos Santos L",
+						"links": {
+							"api": {
+								"athletes": {
+									"href": "http://api.espn.com/v1/sports/soccer/athletes/21364"
+								}
+							},
+							"web": {
+								"athletes": {
+									"href": "http://www.espnfc.com/player/21364/kaka"
+								}
+							},
+							"mobile": {
+								"athletes": {
+									"href": "http://m.espn.go.com/soccer/playercard?playerId=21364&ex_cid=espnapi_public"
+								}
+							}
+						}
+					}
+				}
+			],
+			"published": "2014-07-28T14:21:03Z",
+			"video": [
+				{
+					"id": 1936566,
+					"headline": "Kaka glad of \"emotional\" Sao Paulo return",
+					"description": "Brazil's Kaka was feeling 'emotional' as returned to Sao Paulo after being loaned by new MLS club Orlando City",
+					"tracking": {
+						"sportName": "Soccer",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T17:08:07Z",
+					"originalPublishDate": "2014-07-07T10:13:11Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-07T10:13:11Z",
+						"expirationDate": "2024-07-10T09:20:40Z"
+					},
+					"syndicatable": true,
+					"duration": 134,
+					"keywords": [],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0707/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0707/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0707/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0707/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1936566?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/club/sao-paulo/2026/video/1936566?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/club/sao-paulo/2026/video/1936566?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0707/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return/int_140707_Kaka_glad_of_emotional_Sao_Paulo_return.mp4"
+							}
+						}
+					},
+					"title": "Kaka glad of \"emotional\" Sao Paulo return"
+				}, {
+					"id": 1936565,
+					"headline": "No ill-feelings over Brazil snub - Kaka",
+					"description": "New Sao-Paulo loan signing Kaka insists he has no problem with Brazil manager Luis Felipe Scolari despite his 2014 World Cup exclusion.",
+					"tracking": {
+						"sportName": "Soccer",
+						"leagueName": "World Cup",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T17:08:07Z",
+					"originalPublishDate": "2014-07-07T10:12:12Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-07T10:12:12Z",
+						"expirationDate": "2024-07-10T09:20:40Z"
+					},
+					"syndicatable": true,
+					"duration": 146,
+					"keywords": [],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0707/int_140707_No_illfeelings_over_Brazil_snub_Kaka/int_140707_No_illfeelings_over_Brazil_snub_Kaka_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0707/int_140707_No_illfeelings_over_Brazil_snub_Kaka/int_140707_No_illfeelings_over_Brazil_snub_Kaka.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0707/int_140707_No_illfeelings_over_Brazil_snub_Kaka/int_140707_No_illfeelings_over_Brazil_snub_Kaka.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0707/int_140707_No_illfeelings_over_Brazil_snub_Kaka/int_140707_No_illfeelings_over_Brazil_snub_Kaka.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1936565?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/video/latest-videos/600/video/1936565?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/video/latest-videos/600/video/1936565?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0707/int_140707_No_illfeelings_over_Brazil_snub_Kaka/int_140707_No_illfeelings_over_Brazil_snub_Kaka.mp4"
+							}
+						}
+					},
+					"title": "No ill-feelings over Brazil snub - Kaka"
+				}, {
+					"id": 1929916,
+					"headline": "Kaka signing a good thing for MLS?",
+					"description": "The ESPN FC Encore crew debate whether or not Kaka will help the continued growth of the MLS.",
+					"tracking": {
+						"sportName": "Soccer",
+						"leagueName": "World Cup",
+						"coverageType": "News"
+					},
+					"lastModified": "2014-07-28T17:08:07Z",
+					"originalPublishDate": "2014-07-03T00:40:10Z",
+					"timeRestrictions": {
+						"embargoDate": "2014-07-03T00:40:10Z",
+						"expirationDate": "2015-01-10T17:00:00Z"
+					},
+					"syndicatable": true,
+					"duration": 72,
+					"keywords": ["World Cup", "ESPN FC"],
+					"posterImages": {
+						"default": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0702/int_140702_Kaka_signing_a_good_thing_for_MLS/int_140702_Kaka_signing_a_good_thing_for_MLS_default.jpg",
+							"width": 576,
+							"height": 324
+						},
+						"full": {
+							"href": "http://media.video-cdn.espn.com/motion/ESPNi/2014/0702/int_140702_Kaka_signing_a_good_thing_for_MLS/int_140702_Kaka_signing_a_good_thing_for_MLS.jpg"
+						}
+					},
+					"images": [
+						{
+							"name": "Poster Image",
+							"url": "http://media.video-cdn.espn.com/images/ESPNi/2014/0702/int_140702_Kaka_signing_a_good_thing_for_MLS/int_140702_Kaka_signing_a_good_thing_for_MLS.jpg",
+							"alt": "",
+							"caption": "",
+							"credit": "",
+							"width": 576,
+							"height": 324
+						}
+					],
+					"thumbnail": "http://a.espncdn.com/media/motion/ESPNi/2014/0702/int_140702_Kaka_signing_a_good_thing_for_MLS/int_140702_Kaka_signing_a_good_thing_for_MLS.jpg",
+					"links": {
+						"api": {
+							"self": {
+								"href": "http://api.espn.com/v1/video/clips/1929916?region=GB"
+							}
+						},
+						"web": {
+							"href": "http://www.espnfc.com/video/latest-videos/600/video/1929916?&ex_cid=espnapi_affiliate",
+							"self": {
+								"href": "http://www.espnfc.com/video/latest-videos/600/video/1929916?&ex_cid=espnapi_affiliate"
+							}
+						},
+						"source": {
+							"mezzanine": {
+								"href": "http://vod.espn.go.com/espnvideo/ESPNi/2014/0702/int_140702_Kaka_signing_a_good_thing_for_MLS/int_140702_Kaka_signing_a_good_thing_for_MLS.mp4"
+							}
+						}
+					},
+					"title": "Kaka signing a good thing for MLS?"
+				}
+			]
+		}
+	]
+}

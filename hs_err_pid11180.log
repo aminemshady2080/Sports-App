@@ -1,0 +1,108 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (javaClasses.cpp:129), pid=11180, tid=5020
+#  fatal error: Invalid layout of preloaded class
+#
+# JRE version: 7.0_25-b17
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (23.25-b01 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000000000223c800):  JavaThread "Unknown thread" [_thread_in_vm, id=5020, stack(0x00000000022b0000,0x00000000023b0000)]
+
+Stack: [0x00000000022b0000,0x00000000023b0000]
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x000000000223c800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=5020, stack(0x00000000022b0000,0x00000000023b0000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.078 loading class 0x0000000001d0ff30 done
+Event: 0.078 loading class 0x0000000001cd2370 done
+Event: 0.078 loading class 0x0000000001cd2340
+Event: 0.078 loading class 0x0000000001d63dd0
+Event: 0.078 loading class 0x0000000001d63dd0 done
+Event: 0.078 loading class 0x0000000001d63e10
+Event: 0.078 loading class 0x0000000001d63e10 done
+Event: 0.078 loading class 0x0000000008590980
+Event: 0.079 loading class 0x0000000008590980 done
+Event: 0.079 loading class 0x0000000001cd2340 done
+
+
+Dynamic libraries:
+0x000000013f580000 - 0x000000013f5b3000 	C:\Program Files\Java\jre7\bin\javaw.exe
+0x0000000076d70000 - 0x0000000076f1b000 	C:\Windows\SYSTEM32\ntdll.dll
+0x0000000076c50000 - 0x0000000076d6f000 	C:\Windows\system32\kernel32.dll
+0x000007fefd520000 - 0x000007fefd58b000 	C:\Windows\system32\KERNELBASE.dll
+0x000007fefec00000 - 0x000007fefecdb000 	C:\Windows\system32\ADVAPI32.dll
+0x000007fefeb60000 - 0x000007fefebff000 	C:\Windows\system32\msvcrt.dll
+0x000007fefe550000 - 0x000007fefe56f000 	C:\Windows\SYSTEM32\sechost.dll
+0x000007fefe570000 - 0x000007fefe69e000 	C:\Windows\system32\RPCRT4.dll
+0x00000000769f0000 - 0x0000000076aea000 	C:\Windows\system32\USER32.dll
+0x000007fefd6d0000 - 0x000007fefd737000 	C:\Windows\system32\GDI32.dll
+0x000007fefece0000 - 0x000007fefecee000 	C:\Windows\system32\LPK.dll
+0x000007fefea90000 - 0x000007fefeb5a000 	C:\Windows\system32\USP10.dll
+0x000007fefbcc0000 - 0x000007fefbeb4000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7600.16385_none_fa645303170382f6\COMCTL32.dll
+0x000007fefe4d0000 - 0x000007fefe541000 	C:\Windows\system32\SHLWAPI.dll
+0x000007fefe8b0000 - 0x000007fefe8de000 	C:\Windows\system32\IMM32.DLL
+0x000007fefe980000 - 0x000007fefea89000 	C:\Windows\system32\MSCTF.dll
+0x0000000072b90000 - 0x0000000072c61000 	C:\Program Files\Java\jre7\bin\msvcr100.dll
+0x0000000070d30000 - 0x000000007143f000 	C:\Program Files\Java\jre7\bin\server\jvm.dll
+0x000007fefc140000 - 0x000007fefc149000 	C:\Windows\system32\WSOCK32.dll
+0x000007fefe930000 - 0x000007fefe97d000 	C:\Windows\system32\WS2_32.dll
+0x000007fefef70000 - 0x000007fefef78000 	C:\Windows\system32\NSI.dll
+0x000007fefb020000 - 0x000007fefb05b000 	C:\Windows\system32\WINMM.dll
+0x0000000076f30000 - 0x0000000076f37000 	C:\Windows\system32\PSAPI.DLL
+0x00000000741f0000 - 0x00000000741ff000 	C:\Program Files\Java\jre7\bin\verify.dll
+0x00000000731e0000 - 0x0000000073208000 	C:\Program Files\Java\jre7\bin\java.dll
+0x00000000731c0000 - 0x00000000731d5000 	C:\Program Files\Java\jre7\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=Cp1252 -Xbootclasspath:H:\SHADY WORKS\adt-bundle-windows-x86_64-20131030\adt-bundle-windows-x86_64-20131030\sdk\platforms\android-19\android.jar 
+java_command: com.aminemApps.sportsapp.EspnParser
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Ulead Systems\MPEG;H:\SHADY WORKS\WORK SPACE\TortoiseSVN 1.8.7\bin;H:\SHADY WORKS\WORK SPACE\Servers Side\Mysql Folder\MySQL Utilities 1.3.6\
+USERNAME=AMIN3M-SHOW
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 37 Stepping 5, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 , 64 bit Build 7600 
+
+CPU:total 4 (2 cores per cpu, 2 threads per core) family 6 model 37 stepping 5, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, ht, tsc, tscinvbit
+
+Memory: 4k page, physical 3857104k(1666268k free), swap 7712312k(4304412k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (23.25-b01) for windows-amd64 JRE (1.7.0_25-b17), built on Jun 21 2013 12:58:32 by "java_re" with unknown MS VC++:1600
+
+time: Sun Jul 20 02:57:08 2014
+elapsed time: 0 seconds
+
